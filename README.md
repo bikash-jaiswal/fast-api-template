@@ -1,5 +1,7 @@
 # fast-api-template
+
 FastApi-tempalte/
+```
 ├── app/
 │   ├── api/
 │   │   ├── __init__.py
@@ -17,3 +19,5 @@ FastApi-tempalte/
 │   └── main.py
 ├── .env
 └── requirements.txt
+```
+
